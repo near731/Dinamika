@@ -1,1 +1,1 @@
-$\large{Dinamika HF1 megoldó}$
+Dinamika HF1 megoldó
