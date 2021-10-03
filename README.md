@@ -1,6 +1,6 @@
 # Dinamika HF1 megoldó
 
-## Használathoz töltsd le file-t!
+## Használathoz töltsd le a file-t!
 
 *<span style="color:green">Code</span>(Zöld)->Download ZIP*  
 **Kell hozzá [VS Code](https://code.visualstudio.com/) vagy [PyCharm](https://www.jetbrains.com/pycharm/).**  
