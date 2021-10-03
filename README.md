@@ -2,9 +2,8 @@
 
 ## Használathoz töltsd le file-t!
 
-<span style="color:green">Code(</span>Zöld)->Download as ZIP
+*<span style="color:green">Code</span>(Zöld)->Download ZIP*  
+**Kell hozzá VS Code vagy PyCharm.**  
+**(VS Code-ban íródott)**  
 
-
-
-
-# Készitette: near731
+# Készítette: *near731*
